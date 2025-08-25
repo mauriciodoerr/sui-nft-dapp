@@ -1,0 +1,3 @@
+[submodule "sui-nft-dapp"]
+	path = sui-nft-dapp
+	url = git@github.com-personal:gustavo-f0ntz/sui-nft-dapp.git
